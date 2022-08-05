@@ -4,8 +4,8 @@
 
 [https://go.dev](https://go.dev)
 
-Runing the .go file.
+Run the .go file.
 
 ```shell
-go run herewego.go
+go run filename.go
 ```
